@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ;
 ; Script allows you to add a folder to explorer navigation menu.
-; See for explanation: https://github.com/rikzun/dotfiles/tree/main/windows%2010/explorer/add-folder-in-navigation.md
+; See for explanation: https://github.com/rikzun/dotfiles/blob/main/windows%2010/explorer/add-folder-in-navigation.md
 ;
 ; Author rikzun
 ; Confirmed to work on version 19044.1288
