@@ -2,8 +2,7 @@ Windows Registry Editor Version 5.00
 
 ;
 ; Script allows you to add a folder to explorer navigation menu.
-; generate a GUID key by inserting [guid]::NewGuid() into the powershell
-; replace all GUID except 0E5AAE11-A475-4c5b-AB00-C66DE400274E with your GUID key
+; Explanation: https://github.com/rikzun/dotfiles/tree/main/windows%2010/explorer/add-folder-in-navigation.md
 ;
 ; Author rikzun
 ; Confirmed to work on version 19044.1288
