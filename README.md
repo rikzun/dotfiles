@@ -10,4 +10,4 @@ My files containing things like: configs, settings, tweaks, guides, etc.
 * Windows
     * Explorer
         * Deleting useless folders at "This PC" [[file](./windows%2010/explorer/deletes-folders-from-this-pc.reg)]
-        * Adding your own folder to navigation [[file](./windows%2010/explorer/add-folder-in-navigation.reg)] [[guide](./blob/master/windows%2010/explorer/add-folder-in-navigation.md)]
+        * Adding your own folder to navigation [[file](./windows%2010/explorer/add-folder-in-navigation.reg)] [[guide](./windows%2010/explorer/add-folder-in-navigation.md)]
